@@ -1,23 +1,29 @@
-***UNDER CONSTRUCTION***
+### UNDER CONSTRUCTION
 
 **BARBARA**
+
 Adam. Look. It's him - Betelgeuse.
 
 *(She hesitates, then gives a mischievous grin:)*
+
 Betelgeuse...
 
 **ADAM**
+
 Go ahead, Barbara. Say it.
 
 **BARBARA**
+
 Betelgeuse!
 
 *(A flash of light.)*
 
 **BARBARA**
+
 What happened?
 
 **ADAM**
+
 I think we're in the model...
 
 
