@@ -1,45 +1,39 @@
 ***UNDER CONSTRUCTION***
 
-*Somewhere in time and space...*
-
-> **BARBARA**
+> Somewhere in time and space, the ghosts of Barbara and Adam Maitland notice a tiny light, beckoning from the graveyard of the miniature town that Adam has built.
 >
-> Adam. Look. It's him - Betelgeuse.
-> 
-> *( She hesitates, then gives a mischievous grin: )*
-> 
-> Betelgeuse...
-> 
-> **ADAM**
+> "Adam," Barbara calls, moving towards the slow, deliberate flashing. "Look. It's him - Betelgeuse."
 >
-> Go ahead, Barbara. Say it.
-> 
-> **BARBARA**
+> Recalling that she isn't supposed to speak his name aloud - lest he be summoned into being - she puts a hand over her mouth. But an instant later, an impish smirk alights on her face, and she intones again:
 >
-> Betelgeuse!
-> 
-> *(A flash of light.)*
-> 
-> **BARBARA**
+> "Betelgeuse..."
 >
-> What happened?
-> 
-> **ADAM**
+> She looks to her husband for some rebuke that might dissuade her from this naughtiness.
 >
-> I think we're in the model...
+> "Go ahead, Barbara. Say it," he goads her.
+>
+> "Betelgeuse!"
+>
+> There is a flash of light, and the world swirls around them. When they recover from the vertigo, they're in another place, among the grassy hills. But this grass is made of plastic.
+>
+> "What happened," Barbara gasps.
+>
+> Looking around to confirm his suspicions, Adam delivers his assessment:
+>
+> "I think we're in the model."
 
 
 # Ideogram
 
 ## What Is It?
 
-An Ideogram is a lightweight data model, with a slight bias towards persisted data formats.
+Ideogram helps you to build and visualize conceptual data models.
 
-An Ideogram's primary function is as a communication tool.
+Data models are communication tools for understanding the structure of information. In order to do this effectively, they must be easy for end users to interpret, discuss, and interact with. Regardless of any formal training in data modelling, or the complexity of the model.
 
-Our intent is make the models easy for end users to interpret, discuss, and interact with, regardless of any formal training in data modelling, or the complexity of the model.
+But complex data model diagrams can look like spiderwebs, when they try to present everything at once.
 
-Complex data model diagrams can look like spiderwebs, when they try to present everything at once. Ideograms emphasis is to allow users to build, view, navigate, and learn about data models one piece at a time.
+Ideogram allows you to build, view, navigate, and learn about data models - one piece at a time.
 
 ## Motivation
 
